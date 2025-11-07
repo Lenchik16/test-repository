@@ -10,3 +10,6 @@ date1 = date(2020, 7, 26)
 date2 = date(2020, 7, 2)
 
 print(saturdays_between_two_dates(date1, date2))
+
+for i in range(5):
+    print(i)
