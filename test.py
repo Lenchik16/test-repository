@@ -12,4 +12,5 @@ date2 = date(2020, 7, 2)
 print(saturdays_between_two_dates(date1, date2))
 
 for i in range(5):
-    print(i**2)
+    if i % 2 == 0:
+        print(i**3)
