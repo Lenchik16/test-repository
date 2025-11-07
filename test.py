@@ -13,4 +13,4 @@ print(saturdays_between_two_dates(date1, date2))
 
 for i in range(5):
     if i % 2 == 0:
-        print(i**2)
+        print(i**3)
